@@ -1,5 +1,5 @@
 # NaverCafeCrawler
-
+For a detailed explanation in Korean, see [README_ko.md](README_ko.md).
 This project provides a simple example for scraping articles from Naver Cafe using Python.
 
 ## Requirements
