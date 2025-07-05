@@ -5,6 +5,7 @@ NaverCafeCrawler 가 수집한 posts
 data 를 엑셀로 내보내는 로직을 독립시켰다.
 기존 save_to_excel 의 기능을 거의 그대로 유지한다.
 """
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 
 from __future__ import annotations
 

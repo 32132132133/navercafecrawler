@@ -2,6 +2,7 @@
 네이버 카페 크롤러 - 점진적 마이그레이션 버전
 기존 인터페이스를 100% 호환하면서 새로운 모듈화된 구조를 사용
 """
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 
 import time
 import re

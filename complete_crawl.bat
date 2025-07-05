@@ -1,3 +1,4 @@
+REM Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 @echo off
 chcp 65001 >nul
 title 완전 크롤링 - 공준모 카페 모든 글 수집

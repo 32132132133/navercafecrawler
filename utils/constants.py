@@ -2,6 +2,7 @@
 프로젝트 상수 정의
 모든 모듈에서 공통으로 사용하는 상수들을 정의합니다.
 """
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 
 # 브라우저 설정
 DEFAULT_WINDOW_SIZE = (1920, 1080)

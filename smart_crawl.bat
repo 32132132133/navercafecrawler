@@ -1,3 +1,4 @@
+REM Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 @echo off
 chcp 65001 > nul
 title 🚀 네이버 카페 스마트 크롤러 v3.0 - 완전 탐색 모드
