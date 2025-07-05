@@ -1,3 +1,4 @@
+REM Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 @echo off
 chcp 65001 >nul
 title Chrome 브라우저 설치 도우미

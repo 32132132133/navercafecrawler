@@ -2,6 +2,7 @@
 Utils 패키지
 네이버 카페 크롤러에서 사용하는 유틸리티 모듈들을 포함합니다.
 """
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 
 # 주요 유틸리티 함수들 import
 from .constants import *

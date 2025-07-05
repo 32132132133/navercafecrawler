@@ -1,3 +1,4 @@
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 import time
 import re
 from typing import Optional, List, Dict, Tuple

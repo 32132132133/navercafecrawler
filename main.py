@@ -8,6 +8,7 @@
     python main.py --keyword="키워드"
     python main.py --cafe="카페URL" --keyword="키워드1,키워드2"
     python main.py --help
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 """
 
 import sys

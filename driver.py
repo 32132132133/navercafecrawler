@@ -14,6 +14,7 @@ from driver import create_driver
 
 driver = create_driver()  # returns an initialised WebDriver or None
 """
+# Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 
 from __future__ import annotations
 

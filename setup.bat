@@ -1,3 +1,4 @@
+REM Disclaimer: use at your own risk. The authors take no responsibility for misuse.
 @echo off
 chcp 65001 >nul
 title 네이버 카페 크롤러 - 초기 설정

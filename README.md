@@ -1,6 +1,7 @@
 # NaverCafeCrawler
 For a detailed explanation in Korean, see [README_ko.md](README_ko.md).
 This project provides a simple example for scraping articles from Naver Cafe using Python.
+**Disclaimer:** Use at your own risk. You are solely responsible for any consequences of using this code.
 
 ## Requirements
 
@@ -33,3 +34,6 @@ You can store your login details in a `.env` file and pass additional options:
 python main.py --keyword="example" --max-posts=100 --headless
 ```
 Run `python main.py --help` for the full list of command-line arguments.
+
+## Disclaimer
+Use this code at your own risk. You are solely responsible for complying with Naver's terms of service and any applicable laws. The authors disclaim all liability for any misuse.
